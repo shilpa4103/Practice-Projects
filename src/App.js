@@ -1,9 +1,9 @@
 import './App.css';
-import Prob1 from './Pages/Prob1.jsx'
+import Prob2 from './Pages/Prob2.jsx'
 
 function App() {
   return (
-    <Prob1/>
+    <Prob2/>
   );
 }
 
